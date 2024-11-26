@@ -37,7 +37,7 @@ body {
     top: 0px;
     left: 0px;
     position: absolute;
-    background-image: url("./images/full_circle.jpg");
+    background-image: url("../images/full_circle.jpg");
     background-size: cover;
     border: 1px solid white;
 }
