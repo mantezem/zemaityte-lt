@@ -19,7 +19,7 @@ description: A small corner of the internet for writing, experiments, and select
         I write about design, digital culture, systems, and building things on the web.
       </p>
       <p class="hero-subtext">
-        What does it mean to be an engineer?
+        What does it mean to be an engineer anymore?
       </p>
     </div>
 

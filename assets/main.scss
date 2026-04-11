@@ -119,7 +119,6 @@ a:hover {
   line-height: 1.1;
   letter-spacing: 0;
   white-space: pre;
-  overflow-x: auto;
   font-variant-ligatures: none;
   -webkit-font-smoothing: auto;
 }
@@ -127,7 +126,6 @@ a:hover {
 .hero-wordmark span {
   display: inline-block;
   font-family: inherit;
-  min-width: max-content;
 }
 
 .hero-text {
