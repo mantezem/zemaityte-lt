@@ -1,0 +1,25 @@
+title: "Žemaitytė"
+email: "hello@zemaityte.lt"
+description: "Essays, experiments, and selected work."
+baseurl: ""
+url: "https://zemaityte.lt"
+google_analytics: "G-99PM8BS036"
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - README.md
