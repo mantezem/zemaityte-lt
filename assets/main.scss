@@ -111,6 +111,25 @@ a:hover {
   margin: 0 0 1rem;
 }
 
+.hero-wordmark {
+  margin: 0 0 1rem;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace !important;
+  font-size: clamp(0.5rem, 1.2vw, 0.9rem);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0;
+  white-space: pre;
+  overflow-x: auto;
+  font-variant-ligatures: none;
+  -webkit-font-smoothing: auto;
+}
+
+.hero-wordmark span {
+  display: inline-block;
+  font-family: inherit;
+  min-width: max-content;
+}
+
 .hero-text {
   margin: 0 0 0.5rem;
   font-size: 1.25rem;
