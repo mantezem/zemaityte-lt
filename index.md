@@ -16,10 +16,12 @@ description: A small corner of the internet for writing, experiments, and select
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝</span>
       </h1>
       <p class="hero-text">
-        I write about design, digital culture, systems, and building things on the web.
+        One step further.
+        One hour longer.
+        One thought deeper.
       </p>
       <p class="hero-subtext">
-        What does it mean to be an engineer anymore?
+        Design, systems, and building things.
       </p>
     </div>
 
