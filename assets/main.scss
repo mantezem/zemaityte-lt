@@ -322,3 +322,39 @@ a:focus-visible {
     max-width: 220px;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .site-header {
+    padding-bottom: 0.75rem;
+  }
+
+  .site-title,
+  .site-nav {
+    float: none;
+  }
+
+  .site-title {
+    display: block;
+    line-height: 1.2;
+  }
+
+  .site-nav {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 0.9rem;
+    margin-top: 0.75rem;
+    line-height: 1.4;
+    text-align: left;
+    border: 0;
+  }
+
+  .site-nav .page-link {
+    display: inline-block;
+    padding: 0;
+  }
+
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 0;
+  }
+}
