@@ -102,7 +102,7 @@ Of course, my main goal has always been to learn, to try things out,
 to build, and I always enjoyed the process.
 But a personal website would define **me**, so I had to get
 *everything* right, even though I never wished to be a
-web designer or, god forbid, a blogger.
+web designer. Or to have anything to say.
 
 ## So what has changed, in the year 2026?
 
