@@ -17,7 +17,7 @@ description: Essays, notes, and short observations.
         {% endif %}
       </p>
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt | strip_html | truncate: 220 }}</p>
+      <p>{{ post.description | strip_html | truncate: 220 }}</p>
     </li>
   {% endfor %}
 </ul>

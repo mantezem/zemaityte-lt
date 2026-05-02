@@ -3,7 +3,7 @@ layout: post
 title: "A Navbar To Nowhere: A Decade of Redesigning My Website"
 date: 2026-04-05
 ai_assistance: "AI assistance: 10% | Claude Sonnet 4.6"
-description: "After more than a decade of rebuilding, overthinking, and never publishing, the website finally shipped."
+description: "After more than a decade of rebuilding, overthinking, and never publishing, the website finally ships."
 
 ---
 

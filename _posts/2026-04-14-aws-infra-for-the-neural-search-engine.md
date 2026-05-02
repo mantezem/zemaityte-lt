@@ -3,7 +3,7 @@ layout: post
 title: "Retrospectively Terraforming AWS Infrastructure of 2021"
 date: 2026-04-16
 ai_assistance: "AI assistance: 95% (Terraform code) | Claude Sonnet 4.6 & GPT-5.3"
-description: "The 2021 AWS infrastructure for a neural search engine."
+description: "Turning unfinished notes on microservice architecture into (most likely non-working) Terraform code."
 
 ---
 

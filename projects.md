@@ -6,7 +6,7 @@ description: Selected projects, experiments, and things in progress.
 ---
 
 ## zemaityte.lt
-A personal website designed as a publishing surface for essays, experiments, and selected work.
+A personal website designed as a publishing surface for thoughts, experiments, and selected work.
 
 ## Design notes
 Short-form writing and observations on typography, layout, clarity, and digital aesthetics.

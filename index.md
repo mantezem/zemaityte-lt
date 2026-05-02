@@ -8,7 +8,8 @@ description: A small corner of the internet for writing, experiments, and select
   <div class="hero-grid">
     <div class="hero-copy">
       <h1 class="hero-wordmark" aria-label="Mante">
-<span aria-hidden="true">███╗   ███╗ █████╗ ███╗   ██╗████████╗███████╗
+<span aria-hidden="true">                                         ██╗
+███╗   ███╗ █████╗ ███╗   ██╗████████╗███████╗
 ████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██╔════╝
 ██╔████╔██║███████║██╔██╗ ██║   ██║   █████╗
 ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██╔══╝
@@ -16,12 +17,10 @@ description: A small corner of the internet for writing, experiments, and select
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝</span>
       </h1>
       <p class="hero-text">
-        One step further.
-        One hour longer.
-        One thought deeper.
+        Think one thought deeper.
       </p>
       <p class="hero-subtext">
-        Design, systems, and building things.
+        Always leave an empty line at the end of file.
       </p>
     </div>
 
@@ -72,11 +71,4 @@ description: A small corner of the internet for writing, experiments, and select
       <p>Short-form thoughts on typography, layout, visual systems, and digital aesthetics.</p>
     </div>
   </div>
-</section>
-
-<section class="section">
-  <h2>About</h2>
-  <p>
-    This is a small corner of the internet for writing, documenting projects, and sharing things in progress.
-  </p>
 </section>
