@@ -19,3 +19,5 @@ Disallow: /
 
 User-agent: Google-Extended
 Disallow: /
+
+Sitemap: https://zemaityte.lt/sitemap.xml
