@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: A small corner of the internet for writing, experiments, and selected work.
+description: Always leave an empty line at the end of file.
 ---
 
 <section class="hero">
