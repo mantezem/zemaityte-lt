@@ -48,7 +48,7 @@ description: A small corner of the internet for writing, experiments, and select
           {% endif %}
         </p>
         <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+        <p>{{ post.description }}</p>
       </li>
     {% endfor %}
   </ul>
