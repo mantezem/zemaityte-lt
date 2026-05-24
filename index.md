@@ -54,21 +54,35 @@ description: A small corner of the internet for writing, experiments, and select
   </ul>
 </section>
 
-<section class="section">
-  <div class="section-heading">
-    <h2>Selected projects</h2>
-    <a href="{{ '/projects/' | relative_url }}">See more →</a>
-  </div>
+[//]: # (<section class="section">)
 
-  <div class="project-list">
-    <div class="project-card">
-      <h3>zemaityte.lt</h3>
-      <p>A personal website built as a calm publishing surface for essays, experiments, and notes.</p>
-    </div>
+[//]: # (  <div class="section-heading">)
 
-    <div class="project-card">
-      <h3>Design notes</h3>
-      <p>Short-form thoughts on typography, layout, visual systems, and digital aesthetics.</p>
-    </div>
-  </div>
-</section>
+[//]: # (    <h2>Selected projects</h2>)
+
+[//]: # (    <a href="{{ '/projects/' | relative_url }}">See more →</a>)
+
+[//]: # (  </div>)
+
+[//]: # ()
+[//]: # (  <div class="project-list">)
+
+[//]: # (    {% for project in site.data.projects %})
+
+[//]: # (      {% if project.featured %})
+
+[//]: # (        <div class="project-card">)
+
+[//]: # (          <h3>{{ project.title }}</h3>)
+
+[//]: # (          <p>{{ project.description }}</p>)
+
+[//]: # (        </div>)
+
+[//]: # (      {% endif %})
+
+[//]: # (    {% endfor %})
+
+[//]: # (  </div>)
+
+[//]: # (</section>)

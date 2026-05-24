@@ -1,0 +1,11 @@
+- title: zemaityte.lt
+  description: A personal website for thoughts and selected work.
+  featured: true
+
+- title: Notes
+  description: Short-form writing.
+  featured: true
+
+- title: Experiments
+  description: Small projects and prototypes.
+  featured: false
