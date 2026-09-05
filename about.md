@@ -7,9 +7,9 @@ description: About Mantė Žemaitytė.
 
 Hi. I'm Mantė.
 
-I'm a data engineer by day (has there been a more exciting
-field in the last decade?) and a chronic knowledge junkie.
-Driven by my two inner frenemies - a raging workaholic, and a salty
-idealist (who stings but forces you to get things right).
+I'm a data engineer by trade, a mathematician by education. 
+The bitter roots of studying this wonderful science taught me correctness, 
+accuracy, and high standards. 
+Experience taught me how to make things work, and how to make them last.
 
 I ponder. You're welcome to read.
