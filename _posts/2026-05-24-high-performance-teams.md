@@ -90,7 +90,8 @@ suggestions.
 
 According to a 
 [research report](https://www.fivebehaviors.com/FiveBehaviors/media/SiteFiles/assets/Five-Behaviors-Research-Report-v2.pdf) 
-by one of the companies offering resources on the topic, trust can be measured by asking whether the team members:
+by one of the companies offering resources on the topic, trust can be measured by asking whether 
+the team members:
 
 - openly acknowledge their weaknesses,
 - willingly apologize,
